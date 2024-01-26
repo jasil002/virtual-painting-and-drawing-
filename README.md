@@ -7,5 +7,7 @@ This Python script enables virtual painting using OpenCV and Mediapipe. By lever
 Features
 
 Hand Tracking: Utilizes Mediapipe to accurately track hand movements.
+
 Multiple Drawing Tools: Supports different drawing tools such as lines, rectangles, circles, and erasers.
+
 Real-time Drawing: Enables users to draw and paint in real-time using hand gestures.
